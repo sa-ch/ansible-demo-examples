@@ -5,5 +5,5 @@
   tasks:
     - name: Delete User Ansible
       win_user:
-        name: ansible
+        name: sadubois
         state: absent
